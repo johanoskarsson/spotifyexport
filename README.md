@@ -9,7 +9,7 @@ cp config.yaml.template config.yaml
 ```
 
 Finally, edit config.yaml to include your keys and stuff.
-I honestly don't remember how I got them so that'll be an exercise for the reader. (Starting point.)[https://developer.spotify.com/web-api/authorization-guide/]
+I honestly don't remember how I got them so that'll be an exercise for the reader. [Starting point.](https://developer.spotify.com/web-api/authorization-guide/)
 
 ## Usage
 

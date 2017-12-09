@@ -3,8 +3,10 @@ into bff.fm's DJ admin system thingie.
 
 ## Installation
 
-`bundle install`
-`cp config.yaml.template config.yaml`
+```
+bundle install
+cp config.yaml.template config.yaml
+```
 
 Finally, edit config.yaml to include your keys and stuff.
 

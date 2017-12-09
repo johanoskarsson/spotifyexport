@@ -1,0 +1,14 @@
+spotify:
+  client:
+    id: "your_client_id_here, see https://developer.spotify.com/web-api/authorization-guide/"
+    secret: "your client secret here, see https://developer.spotify.com/web-api/authorization-guide/"
+  oauth:
+    provider: "spotify"
+    uid: "yourusername"
+    credentials:
+      token: "sometoken"
+      refresh_token: "anothertoken"
+      expires: true
+      expires_at: 1498620290
+    info:
+      id: "yourusername"
